@@ -26,3 +26,4 @@ become effective at the process of retrieving, analyzing and visualizing data in
 3. [Market Analysis Report for National Clothing Chain](/3\3-Market-Analysis-Report-for-National-Clothing-Chain/)
 
 ## Nanodegree Certificate
+confirm.udacity.com/e/bec1d0ac-1dc2-11ee-9295-1ffd339faa3a
