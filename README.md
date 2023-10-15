@@ -1,8 +1,5 @@
 # **Data Analysis and Visualization with Microsoft Power BI Nanodegree Program**
-This repository is for projects in Udacity's [Data Analysis and Visualization with Microsoft Power BI Nanodegree Program](https://www.udacity.com/course/data-analysis-and-visualization-with-power-BI-nanodegree--nd331)
-that covers in-demand skills necessary to become a successful data analyst like data pre-processing, visualization and analysis using Microsoft Power BI as the primary tool.
-Each project contains a detailed README file documenting the project description, specs, processes and findings.
- 
+This repository is dedicated to projects within Udacity's [Data Analysis and Visualization with Microsoft Power BI Nanodegree Program](https://www.udacity.com/course/data-analysis-and-visualization-with-power-BI-nanodegree--nd331). These projects are designed to impart essential skills required for a thriving career as a data analyst. They encompass crucial aspects such as data pre-processing, visualization, and analysis, with Microsoft Power BI serving as the primary tool. Each project includes an extensive README file that comprehensively outlines the project's description, specifications, methodologies, and discoveries.
 ___
 ## Nanodegree Courses:
 
@@ -24,8 +21,8 @@ and learning to build custom formulas as part of the data transformation process
 become effective at the process of retrieving, analyzing and visualizing data in order to answer questions and draw conclusions.
 
 ## Nanodegree Projects
-1 [Build a Data Model for Seven Sages Brewing Company](/1\3-Create-a-Data-Model-for-Seven-Sages-Brewing-Company/)
-2 [Building a Power BI Report for Waggle](/2\3-Building-Power-BI-Report-for-Waggle/)
-3 [Market Analysis Report for National Clothing Chain](/3\3-Market-Analysis-Report-for-National-Clothing-Chain/)
+1. [Build a Data Model for Seven Sages Brewing Company](/1\3-Create-a-Data-Model-for-Seven-Sages-Brewing-Company/)
+2. [Building a Power BI Report for Waggle](/2\3-Building-Power-BI-Report-for-Waggle/)
+3. [Market Analysis Report for National Clothing Chain](/3\3-Market-Analysis-Report-for-National-Clothing-Chain/)
 
 ## Nanodegree Certificate
