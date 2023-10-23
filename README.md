@@ -22,8 +22,8 @@ become effective at the process of retrieving, analyzing and visualizing data in
 
 ## Nanodegree Projects
 1. [Build a Data Model for Seven Sages Brewing Company](https://github.com/Yarakhall/Data-Analysis-and-Visualization-with-Microsoft-Power-Bi-Udacity/tree/main/1%5C3%20Create%20a%20Data%20Model%20for%20Seven%20Sages%20Brewing%20Company)
-2. [Building a Power BI Report for Waggle]([/2\3-Building-Power-BI-Report-for-Waggle/](https://github.com/Yarakhall/Data-Analysis-and-Visualization-with-Microsoft-Power-Bi-Udacity/tree/main/2%5C3%20Building%20a%20PowerBI%20Report%20for%20Waggle))
-3. [Market Analysis Report for National Clothing Chain](/3\3-Market-Analysis-Report-for-National-Clothing-Chain/)
+2. [Building a Power BI Report for Waggle](https://github.com/Yarakhall/Data-Analysis-and-Visualization-with-Microsoft-Power-Bi-Udacity/tree/main/2%5C3%20Building%20a%20PowerBI%20Report%20for%20Waggle)
+3. [Market Analysis Report for National Clothing Chain](https://github.com/Yarakhall/Data-Analysis-and-Visualization-with-Microsoft-Power-Bi-Udacity/tree/main/3%5C3%20Market%20Analysis%20Report%20for%20National%20Clothing%20Chain)
 
 ## Nanodegree Certificate
-![Nanodegree2_page-0001](https://github.com/Yarakhall/Data-Analysis-and-Visualization-with-Microsoft-Power-Bi-Udacity/assets/132329466/32f75071-eec4-4071-b63b-93e4ea783eb2)
+[Nanodegree2_page-0001](https://github.com/Yarakhall/Data-Analysis-and-Visualization-with-Microsoft-Power-Bi-Udacity/assets/132329466/32f75071-eec4-4071-b63b-93e4ea783eb2)
