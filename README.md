@@ -26,4 +26,4 @@ become effective at the process of retrieving, analyzing and visualizing data in
 3. [Market Analysis Report for National Clothing Chain](https://github.com/Yarakhall/Data-Analysis-and-Visualization-with-Microsoft-Power-Bi-Udacity/tree/main/3%5C3%20Market%20Analysis%20Report%20for%20National%20Clothing%20Chain)
 
 ## Nanodegree Certificate
-[Nanodegree2_page-0001](https://github.com/Yarakhall/Data-Analysis-and-Visualization-with-Microsoft-Power-Bi-Udacity/assets/132329466/32f75071-eec4-4071-b63b-93e4ea783eb2)
+![Nanodegree2_page-0001](https://github.com/Yarakhall/Data-Analysis-and-Visualization-with-Microsoft-Power-Bi-Udacity/assets/132329466/32f75071-eec4-4071-b63b-93e4ea783eb2)
