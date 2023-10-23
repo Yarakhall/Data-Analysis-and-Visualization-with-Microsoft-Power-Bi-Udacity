@@ -21,7 +21,7 @@ and learning to build custom formulas as part of the data transformation process
 become effective at the process of retrieving, analyzing and visualizing data in order to answer questions and draw conclusions.
 
 ## Nanodegree Projects
-1. [Build a Data Model for Seven Sages Brewing Company](/1\3-Create-a-Data-Model-for-Seven-Sages-Brewing-Company/)
+1. [Build a Data Model for Seven Sages Brewing Company(https://github.com/Yarakhall/Data-Analysis-and-Visualization-with-Microsoft-Power-Bi-Udacity/tree/main/1%5C3%20Create%20a%20Data%20Model%20for%20Seven%20Sages%20Brewing%20Company)
 2. [Building a Power BI Report for Waggle](/2\3-Building-Power-BI-Report-for-Waggle/)
 3. [Market Analysis Report for National Clothing Chain](/3\3-Market-Analysis-Report-for-National-Clothing-Chain/)
 
